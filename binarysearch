@@ -1,0 +1,9 @@
+root=5 , root'un sağında 8 , solunda 2 bulunur.
+
+                                     5
+                                   /    \
+                                  2       8
+                                /   \    /  \
+                               1     4  6    9
+                              /     /     \
+                             0      3      7
