@@ -9,7 +9,7 @@
        
         [2	6	16	18	22	27]		[18-22]
 
-**Big-O :	O(n^2)
+Big-O :	O(n^2)
 
 Time Complexity: 
 -Average case:O(n²)
